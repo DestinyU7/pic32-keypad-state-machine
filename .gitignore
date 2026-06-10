@@ -1,0 +1,30 @@
+# MPLAB X / XC32 build output
+build/
+dist/
+nbproject/private/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lst
+*.sym
+*.cof
+*.mcs
+
+# MPLAB X project caches
+*.X.launch
+nbactions.xml
+
+# Compiled output
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
